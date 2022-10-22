@@ -1,7 +1,6 @@
 
-# Uttam Saket
 # Capstone project no. 1 - Walmart Dataset
-
+# Using R programming language
 
 read.csv("D:\\Capstone project_IIT Madras_For certificate\\Walmart_capstone.csv")->walmart
 View(walmart)
